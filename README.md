@@ -23,6 +23,16 @@ The datasets in this repository are organized and structured for easy access and
 ### Exploratory Data Analysis
 This repository contains a sample Exploratory Data Analysis (EDA) for the Titanic dataset. EDA helps us understand the underlying structure of the data, identify patterns, spot anomalies, and test assumptions through statistical summaries and graphical representations.
 
-- 
+- Titanic dataet
+- EDA trend
+- Anomalies
+- Statistical summaries
+
+### Data Analysis 
+this is where we include code format for example mysql and all
+```SQL
+select*from table 1
+where condition = true
+```
 
 
