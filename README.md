@@ -35,4 +35,7 @@ select*from table 1
 where condition = true
 ```
 
+![tobi](https://github.com/user-attachments/assets/d7447b4d-9db9-4c27-a8f3-fd0875b1eab2)
+
+
 
