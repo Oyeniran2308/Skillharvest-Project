@@ -6,10 +6,10 @@ It is designed for educational purposes and to provide examples for data practit
 The datasets included in this repository are collected from publicly available and reputable data sources. 
 They are provided for educational and analytical purposes. 
 ### Tools Used
-- Ms Excel
-  - Pivot Table
-  - Data Cleaning
-  - Data Interpretation
+- Ms Excel [Download here](https://www.microsoft.com)
+  1. Pivot Table
+  2. Data Cleaning
+  3. Data Interpretation
 - Microsoft Power Bi
 - Python
 - MySql
