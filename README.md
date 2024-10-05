@@ -20,3 +20,8 @@ The datasets in this repository are organized and structured for easy access and
 3. Dataset: Comic Book Characters
 4. Dataset: Global Education Statistics
 
+### Exploratory Data Analysis
+This repository contains a sample Exploratory Data Analysis (EDA) for the Titanic dataset. EDA helps us understand the underlying structure of the data, identify patterns, spot anomalies, and test assumptions through statistical summaries and graphical representations.
+_
+
+
