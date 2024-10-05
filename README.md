@@ -13,5 +13,10 @@ They are provided for educational and analytical purposes.
 - Microsoft Power Bi
 - Python
 - MySql
-
+### Data Cleaning and Presentation
+The datasets in this repository are organized and structured for easy access and analysis. Below is an overview of the data files, their format, and how to load them into your data analysis tools.
+1. Dataset: Iris Dataset
+2. Dataset: Titanic Passenger Data
+3. Dataset: Comic Book Characters
+4. Dataset: Global Education Statistics
 
